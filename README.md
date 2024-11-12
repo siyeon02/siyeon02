@@ -1,4 +1,4 @@
-## 멋진 개발자가 되어보아 👋
+## 멋진 개발자가 되어보아요 👋
 
 <!--
 **siyeon02/siyeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
