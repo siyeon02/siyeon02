@@ -1,4 +1,4 @@
-## Hi there 👋
+## 멋진 개발자가 되어보아 👋
 
 <!--
 **siyeon02/siyeon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/siyeon02"
+    width="600"
+    height="120"
+  />
+</a>
+  
